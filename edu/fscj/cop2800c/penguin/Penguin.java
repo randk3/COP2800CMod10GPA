@@ -1,6 +1,6 @@
 // Penguin.java
-// 
-// 
+// Kristina Randolph
+// Submitted 03-29-2026
 // Represents a Palmer Penguin
 
 package edu.fscj.cop2800c.penguin;
