@@ -1,6 +1,6 @@
 // Bird.java
-// 
-// 
+// Kristina Randolph
+// Submitted: 03-29-2026
 // Represents a bird base class
 
 package edu.fscj.cop2800c.penguin;
